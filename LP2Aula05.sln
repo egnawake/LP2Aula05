@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionTest", "ExceptionTest\ExceptionTest.csproj", "{3015B534-1828-47C8-847F-A6BB86EA15C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunDecorations", "GunDecorations\GunDecorations.csproj", "{DDAB300E-45CD-4ABB-953A-544F20F2AC79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{3015B534-1828-47C8-847F-A6BB86EA15C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3015B534-1828-47C8-847F-A6BB86EA15C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3015B534-1828-47C8-847F-A6BB86EA15C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAB300E-45CD-4ABB-953A-544F20F2AC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAB300E-45CD-4ABB-953A-544F20F2AC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAB300E-45CD-4ABB-953A-544F20F2AC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAB300E-45CD-4ABB-953A-544F20F2AC79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
