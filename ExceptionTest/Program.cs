@@ -24,6 +24,10 @@ namespace ExceptionTest
             {
                 Console.WriteLine("Ocorreu um erro");
             }
+            finally
+            {
+                Console.WriteLine("Obrigado por ter utilizado este programa!");
+            }
         }
     }
 }
